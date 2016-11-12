@@ -1,4 +1,4 @@
-<?php
+ <?php
 
 // accept a term (keyword)
 // respond with a value
